@@ -1,9 +1,4 @@
 /**
- * Created with IntelliJ IDEA.
- * User: Maka
- * Date: 10/20/13
- * Time: 3:58 PM
- * To change this template use File | Settings | File Templates.
  */
 import javax.swing.*;
 import javax.swing.event.*;
